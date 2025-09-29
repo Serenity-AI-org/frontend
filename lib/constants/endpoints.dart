@@ -1,5 +1,5 @@
 class ApiConstants {
-  static const String baseUrl = 'https://nonsynchronical-elana-sympetaly.ngrok-free.app';
+  static const String baseUrl = 'http://127.0.0.1:5001';
 
   // ================================
   // DOCTOR MANAGEMENT ENDPOINTS
