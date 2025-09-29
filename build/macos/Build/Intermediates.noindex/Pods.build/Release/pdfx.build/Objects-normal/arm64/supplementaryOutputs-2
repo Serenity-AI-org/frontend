@@ -1,0 +1,12 @@
+{
+  "/Users/ahmednaeim/.pub-cache/hosted/pub.dev/pdfx-2.9.2/macos/Classes/Document.swift" : {
+    "abi-baseline-json" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx.abi.json",
+    "const-values" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx-primary.swiftconstvalues",
+    "dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx-primary.d",
+    "diagnostics" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx-primary.dia",
+    "objc-header" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx-Swift.h",
+    "swiftdoc" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx.swiftdoc",
+    "swiftmodule" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx.swiftmodule",
+    "swiftsourceinfo" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/pdfx.build/Objects-normal/arm64/pdfx.swiftsourceinfo"
+  }
+}

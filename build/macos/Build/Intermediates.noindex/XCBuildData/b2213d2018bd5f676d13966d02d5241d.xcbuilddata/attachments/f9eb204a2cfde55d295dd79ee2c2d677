@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary.swiftconstvalues",
+    "dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary.d",
+    "diagnostics" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary.dia",
+    "emit-module-dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary-emit-module.dia",
+    "pch" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-primary.swiftdeps"
+  },
+  "/Users/ahmednaeim/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_macos-23.2.7/macos/Classes/SyncfusionFlutterPdfViewerPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.o",
+    "llvm-bc" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.bc",
+    "object" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.o"
+  }
+}

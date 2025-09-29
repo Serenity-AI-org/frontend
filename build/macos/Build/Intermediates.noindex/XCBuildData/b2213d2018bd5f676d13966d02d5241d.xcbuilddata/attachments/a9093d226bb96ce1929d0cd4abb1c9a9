@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary.swiftconstvalues",
+    "dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary.d",
+    "diagnostics" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary.dia",
+    "emit-module-dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary-emit-module.dia",
+    "pch" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-primary.swiftdeps"
+  },
+  "/Users/ahmednaeim/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.3/macos/url_launcher_macos/Sources/url_launcher_macos/UrlLauncherPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.o",
+    "llvm-bc" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.bc",
+    "object" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.o"
+  },
+  "/Users/ahmednaeim/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.3/macos/url_launcher_macos/Sources/url_launcher_macos/messages.g.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/messages.g.o",
+    "llvm-bc" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/messages.g.bc",
+    "object" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/Objects-normal/arm64/messages.g.o"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "/Users/ahmednaeim/.pub-cache/hosted/pub.dev/device_info_plus-9.1.2/macos/Classes/CwlSysctl.swift" : {
+    "abi-baseline-json" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus.abi.json",
+    "const-values" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus-primary.swiftconstvalues",
+    "dependencies" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus-primary.d",
+    "diagnostics" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus-primary.dia",
+    "objc-header" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus-Swift.h",
+    "swiftdoc" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus.swiftdoc",
+    "swiftmodule" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus.swiftmodule",
+    "swiftsourceinfo" : "/Users/ahmednaeim/Documents/Github/seranityAI/build/macos/Build/Intermediates.noindex/Pods.build/Release/device_info_plus.build/Objects-normal/x86_64/device_info_plus.swiftsourceinfo"
+  }
+}
